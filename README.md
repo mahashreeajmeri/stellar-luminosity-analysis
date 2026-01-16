@@ -1,11 +1,12 @@
 # Stellar Luminosity Analysis
 
-Exploring the relationship between stellar temperature, radius, and brightness using data science techniques
+Exploring the relationship between stellar temperature, radius, and brightness using data science techniques.
 
 This project analyzes the relationship between stellar luminosity, temperature and radius using an educational astronomy dataset. By applying data cleaning, visualization, and basic statistical analysis, this project demonstrates how physical properties of stars influence their brightness, inspired by the Hertzsprung-Russell (HR) diagram.
 
 # Dataset
-Source: 
+Source: Stars Dataset from Kaggle
+https://www.kaggle.com/datasets/waqi786/stars-dataset
 
 Features include:
 
